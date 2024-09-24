@@ -1,0 +1,2 @@
+# TikTok-Ban
+tiktok ban
