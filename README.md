@@ -17,8 +17,8 @@ This repository offers a specialized service for banning TikTok accounts and rec
    - Submit the necessary information via our secure platform.
 
 2. Processing Time:
-   - Banning requests are processed within 24-48 hours.
-   - Recovery requests typically take 3-5 business days, depending on the case complexity.
+   - Banning requests are processed within 1-7 business days, depending on the followers.
+   - Recovery requests typically take 1-7 business days, depending on the case complexity.
 
 3. Guarantee:
    - If we fail to ban or recover the account, you will receive a full refund.
