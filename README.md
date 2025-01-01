@@ -8,7 +8,7 @@ This repository offers a specialized service for banning TikTok accounts and rec
 - Fast Account Banning: We provide rapid solutions for banning accounts that violate TikTok's community guidelines or pose threats.
 - Account Recovery: If your account has been wrongfully banned or compromised, we offer a fast and secure recovery process.
 - Guaranteed Results: We guarantee that accounts will be banned or recovered according to your request.
-- Refund Policy: If the service is unsuccessful within the agreed timeframe, we offer a full money-back guarantee.
+- Refund Policy: If the service is unsuccessful within the agreed timeframe, we offer a full money-back guarantee. 
 - Secure and Confidential: All account details and operations are handled securely, ensuring full confidentiality.
 
 ## How It Works
